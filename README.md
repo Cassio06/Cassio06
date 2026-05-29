@@ -9,6 +9,11 @@
 - 🧠 Interesse em Arquitetura de Computadores, Algoritmos e Desenvolvimento de Software
 - 🚀 Buscando crescimento profissional contínuo
 
+## 📫 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/cássio-filipe-braga-239881328
+📧 Email: cassiofilipe439@gmail.com
+
 ## Tecnologias
 
 ### Linguagens
