@@ -11,8 +11,8 @@
 
 ## 📫 Contato
 
-🔗 LinkedIn: https://www.linkedin.com/in/cássio-filipe-braga-239881328
-📧 Email: cassiofilipe439@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/cássio-filipe-braga-239881328
+- 📧 Email: cassiofilipe439@gmail.com
 
 ## Tecnologias
 
