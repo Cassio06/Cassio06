@@ -39,6 +39,11 @@
 - Portal de Empregos
 - Todo API
 
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cassio06&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio06&layout=compact&theme=tokyonight)
 ---
 ⭐ Sempre aprendendo algo novo.
 
