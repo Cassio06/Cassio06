@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá, eu sou o Cássio 👋
 
-<!--
-**Cassio06/Cassio06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Apaixonado por tecnologia e hardware
+- 📚 Estudando Engenharia de Software
+- 🧠 Interesse em Arquitetura de Computadores, Algoritmos e Desenvolvimento de Software
+- 🚀 Buscando crescimento profissional contínuo
+
+## Tecnologias
+
+### Linguagens
+- Python
+- C
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+
+## Atualmente estudando
+
+- Engenharia de Software
+- Estruturas de Dados
+- Arquitetura de Computadores
+- Banco de Dados
+- Inglês Técnico
+
+## Objetivos
+
+- Conseguir oportunidades na área de tecnologia
+- Construir projetos relevantes
+- Aprimorar minhas habilidades de desenvolvimento
+
+## Projetos em destaque
+
+- Portal de Empregos
+- Todo API
+
+---
+⭐ Sempre aprendendo algo novo.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
