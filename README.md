@@ -19,6 +19,8 @@
 ### Linguagens
 - Python
 - C
+- C#
+- Java
 
 ### Ferramentas
 - Git
