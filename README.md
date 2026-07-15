@@ -1,56 +1,95 @@
-# Olá, eu sou o Cássio 👋
+# Olá, eu sou o Cássio Filipe 👋
 
-🎓 Estudante de Engenharia de Software
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor em formação apaixonado por tecnologia, programação e hardware.
 
-## Sobre mim
+Estou construindo minha carreira com foco em desenvolvimento de software, buscando unir uma base sólida em Ciência da Computação com experiência prática por meio de projetos pessoais.
 
-- 💻 Apaixonado por tecnologia e hardware
-- 📚 Estudando Engenharia de Software
-- 🧠 Interesse em Arquitetura de Computadores, Algoritmos e Desenvolvimento de Software
-- 🚀 Buscando crescimento profissional contínuo
+---
 
-## 📫 Contato
+## 🚀 Sobre mim
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/cássio-filipe-braga-239881328
-- 📧 Email: cassiofilipe439@gmail.com
+- 🎓 Estudante de Engenharia de Software (2º período)
+- 💻 Interesse em Desenvolvimento de Software, Arquitetura de Software e Programação Orientada a Objetos
+- 🧠 Estudando Java, Estruturas de Dados, Lógica para Computação e Engenharia de Software
+- 🔍 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento
+- 🎯 Objetivo: tornar-me um Engenheiro de Software altamente qualificado
 
-## Tecnologias
+---
+
+## 📚 Atualmente estudando
+
+- ☕ Java
+- 📦 Programação Orientada a Objetos
+- 📐 Algoritmos e Estruturas de Dados
+- 🏗️ Engenharia de Software
+- 🔄 Git e GitHub
+- 🗄️ Banco de Dados
+- 🇺🇸 Inglês Técnico
+
+---
+
+## 💻 Tecnologias
 
 ### Linguagens
+
+- Java
 - Python
 - C
 - C#
-- Java
 
 ### Ferramentas
+
 - Git
 - GitHub
 - VS Code
-
-## Atualmente estudando
-
-- Engenharia de Software
-- Estruturas de Dados
-- Arquitetura de Computadores
-- Banco de Dados
-- Inglês Técnico
-
-## Objetivos
-
-- Conseguir oportunidades na área de tecnologia
-- Construir projetos relevantes
-- Aprimorar minhas habilidades de desenvolvimento
-
-## Projetos em destaque
-
-- Portal de Empregos
-- E.V.A
+- IntelliJ IDEA
 
 ---
-⭐ Sempre aprendendo algo novo.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🚧 Projetos
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🤖 E.V.A.
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+Assistente pessoal desenvolvido em Java.
+
+Projeto criado para aplicar conceitos de Programação Orientada a Objetos, organização de código e arquitetura de software. A ideia é evoluir continuamente o sistema durante a graduação.
+
+### 📦 Sistema de Gerenciamento de Estoque
+
+Projeto em Java desenvolvido para praticar:
+
+- Programação Orientada a Objetos
+- Encapsulamento
+- Collections
+- Validação de dados
+- Organização em classes
+- Manipulação de estoque
+
+### 💼 Portal de Empregos
+
+Projeto voltado ao desenvolvimento de um sistema para gerenciamento e divulgação de vagas de emprego.
+
+---
+
+## 🎯 Objetivos
+
+Durante a graduação pretendo:
+
+- Construir um portfólio sólido
+- Desenvolver projetos completos
+- Aprender boas práticas de Engenharia de Software
+- Conquistar uma oportunidade de estágio
+- Evoluir continuamente como desenvolvedor
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/cássio-filipe-braga-239881328
+
+📧 Email: cassiofilipe439@gmail.com
+
+---
+
+⭐ Sempre aberto a aprender, colaborar em projetos e compartilhar conhecimento.
